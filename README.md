@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivancleycarneiro
-- 👀 I’m interested in Softwares, IA, DataBase, Tecnology and more.
+- 👀 I’m interested in Softwares, IA, DataBase, Tecnology, Data Analytics and more.
 - 🌱 I’m currently in college Software engineer
 - 💞️ I’m looking to collaborate all that possible.
 - 📫 How to reach me ivancley@gmail.com
